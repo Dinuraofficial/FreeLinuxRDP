@@ -14,14 +14,20 @@
     
 </p>
 
-## Descrption
+# Descrption
 - Link: `https://cloud.google.com/shell`
 - Code: `docker run -p 6080:80 dorowu/ubuntu-desktop-lxde-vnc`
 - Port: `6080`
 
 
+## [Tutorial](https://youtu.be/rJsX0E4C0ck)
 
-## Devaloper
+### Devaloper
 [![Dinura](https://github.com/Dinuraofficial.png?size=50)](https://t.me/Dinuranikalansuriya) 
 
 [Dinura](https://t.me/Dinuranikalansuriya) 
+
+# Thanks To
+[![Janindu](https://github.com/ImJanindu.png?size=50)](https://t.me/imtrulyjanindu) 
+
+[Janidu](https://t.me/imtrulyjanindu)
